@@ -1,0 +1,18 @@
+Filters Aren't Working ,"Open App
+Open Filter 
+Choose Child
+Choose Socks
+Press Apply Filters
+Actual Results:
+> Always Showing Man and Jacket Category
+Expected Results:
+> App Should Direct User to Child, Socks Category",High
+"Open App
+Open Filter 
+Choose Child
+Choose Socks
+Press Apply Filters
+Actual Results:
+> Always Showing Man and Jacket Category
+Expected Results:
+> App Should Direct User to Child, Socks Category",,
